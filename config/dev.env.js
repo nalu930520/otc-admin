@@ -4,5 +4,5 @@ const prodEnv = require('./prod.env')
 
 module.exports = merge(prodEnv, {
   NODE_ENV: '"dev"',
-  BASE_API: '"https://staging-b-api.mobiapp.cn"'
+  BASE_API: ''
 })
