@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="90" rx="20"></rect>
+    </defs>
+    <g id="--Draft" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Me_about" transform="translate(-143.000000, -134.000000)">
+            <g id="icon" transform="translate(143.000000, 134.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-4" fill="#214EA2" xlink:href="#path-1"></use>
+                <path d="M58.9853987,66.0989102 C60.9879954,62.5402495 61.8006045,60.2531821 61.8006045,60.2531821 C61.8006045,60.2531821 59.1313695,55.3518582 57.5300966,52.7276404 C55.7257673,49.7701034 52.1768763,45 52.1768763,45 C52.1768763,45 55.7257673,40.229705 57.5300966,37.2723596 C59.1313695,34.6479503 61.8006045,29.7466264 61.8006045,29.7466264 C61.8006045,29.7466264 60.9879954,27.4593674 58.9853987,23.9010898 C56.9828019,20.3426206 54.5769656,18 54.5769656,18 C54.5769656,18 47.4818654,26.8590098 43.3444936,31.5195394 C39.2067388,36.1796858 31,45 31,45 C31,45 39.2067388,53.8201226 43.3444936,58.4804606 C47.4818654,63.1407986 54.5769656,72 54.5769656,72 C54.5769656,72 56.9828019,69.6569963 58.9853987,66.0989102" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(46.400302, 45.000000) rotate(-180.000000) translate(-46.400302, -45.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
